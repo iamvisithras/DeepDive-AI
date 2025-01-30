@@ -1,2 +1,0 @@
-# DeepDive-AI
-DeepDive AI
